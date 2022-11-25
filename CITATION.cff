@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Zoe Sarah
+    given-names: Anderson
+    orcid: 
+title: "40223826/eeecs_qub_collaboration"
+version: 1.0.0
+doi: 10.5072/zenodo.1131857
+date-released: 25/11/22
